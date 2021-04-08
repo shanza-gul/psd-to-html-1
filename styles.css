@@ -1,0 +1,65 @@
+
+body{
+  height: 100%;
+}
+
+
+.header{
+    background-color: #75c426;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    color:white;
+    font-size: 17px;
+}
+
+.hero-image {
+    background-image: url("assests/bghero.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+  .hero-image2 {
+    background-image: url("assests/himg2.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+
+
+#menu ul{
+    list-style-type: none;
+}
+
+#menu li{
+    display: inline;
+    font-weight: 600;
+}
+
+ #menu li:first-child {
+    color:#75c426;
+  }
+
+.heroimg3{
+    background-image: url("assests/nextlayer.png");
+    height: 1380px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.footer p{
+  color: #7b7b7b;
+  font-size: 17px;
+}
+
+.footer h6{
+  color : #1675bf;
+}
